@@ -14,12 +14,12 @@
 [<img align="left" alt="pokoi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="pokoi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+---
+
 <br />
 
-### Languages and Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pokoi&layout=compact)](https://github.com/pokoi/github-readme-stats)
 
-<br />
 <br />
 
 ---
