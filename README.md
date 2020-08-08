@@ -26,6 +26,8 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Game Engine Programming | 2 - Coding the basic architecture](https://www.youtube.com/watch?v=JytEMwiNsnM)
+- [Game Engine Programming | 1 - Basic concepts and architecture](https://www.youtube.com/watch?v=oFOKWFrkxwA)
 <!-- YOUTUBE:END -->
 
 ---
