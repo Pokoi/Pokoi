@@ -1,7 +1,7 @@
 ### Welcome to my place, make yourself at home! I'm Jesús Fermín - aka [Pokoi][website] 👋
 
 ## I'm a game dev with special interest on Graphic Programming and Engine Programming
-- 🎮 I’m a programmer graduate on Video games Design and Development
+- 🎮 I’m a Video Game Design and Development graduate
 - 🌱 I love to take care of my plants
 - 🍴 If I'm not coding, you can find me cooking :) I love it!
 - 🍺 Let's take a beer and discuss a new project together! 
@@ -24,13 +24,6 @@
 
 <br />
 
----
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Game Engine Programming | 2 - Coding the basic architecture](https://www.youtube.com/watch?v=JytEMwiNsnM)
-- [Game Engine Programming | 1 - Basic concepts and architecture](https://www.youtube.com/watch?v=oFOKWFrkxwA)
-<!-- YOUTUBE:END -->
 
 ---
 
