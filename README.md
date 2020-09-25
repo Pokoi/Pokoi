@@ -6,6 +6,8 @@
 - 🍴 If I'm not coding, you can find me cooking :) I love it!
 - 🍺 Let's take a beer and discuss a new project together! 
 
+<img src="https://komarev.com/ghpvc/?username=pokoi" alt="pokoi" />
+
 ### Connect with me:
 
 [<img align="left" alt="pokoidev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
