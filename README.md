@@ -1,4 +1,5 @@
-### Welcome to my place, make yourself at home! I'm Jesús Fermín - aka [Pokoi][website] 👋
+### Welcome to my place, make yourself at home! I'm Jesús Fermín - aka [Pokoi][website] 👋 you are the visitor number:   
+<img src="https://komarev.com/ghpvc/?username=pokoi" alt="pokoi" />
 
 ## I'm a game dev with special interest on Graphic Programming and Engine Programming
 - 🎮 I’m a Video Game Design and Development graduate
@@ -6,7 +7,6 @@
 - 🍴 If I'm not coding, you can find me cooking :) I love it!
 - 🍺 Let's take a beer and discuss a new project together! 
 
-<img src="https://komarev.com/ghpvc/?username=pokoi" alt="pokoi" />
 
 ### Connect with me:
 
