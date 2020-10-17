@@ -1,7 +1,7 @@
 ### Welcome to my place, make yourself at home! I'm Jesús Fermín - aka [Pokoi][website] 👋 you are the visitor number:   
 <img src="https://komarev.com/ghpvc/?username=pokoi" alt="pokoi" />
 
-## I'm a game dev with special interest on Graphic Programming and Engine Programming
+## I'm a game dev with special interest on Graphic Programming and Engine Programming, currently working as Software Developer at PhotonicSens  
 - 🎮 I’m a Video Game Design and Development graduate
 - 🌱 I love to take care of my plants
 - 🍴 If I'm not coding, you can find me cooking :) I love it!
@@ -115,6 +115,12 @@ I am a Video Games Development graduated with special interest on computer visio
 * * *
 
 ## Work experience
+
+#### [PhotonicSens](https://photonicsens.com) || _10.2020 —  
+
+> ##### Software developer  
+ 
+
 #### [Fundación ONCE](https://www.fundaciononce.es/) || _11.2019 — 08.2020_ 
 
 > ##### Mobile application developer  
