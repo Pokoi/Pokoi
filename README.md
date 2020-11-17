@@ -116,7 +116,7 @@ I am a Video Games Development graduated with special interest on computer visio
 
 ## Work experience
 
-#### [PhotonicSens](https://photonicsens.com) || _10.2020 —  
+#### [photonicSENS](https://photonicsens.com) || _10.2020 —  
 
 > ##### Software developer  
  
