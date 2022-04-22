@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="pokoidev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="jfvillar.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="pokoi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="pokoi | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="pokoi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -30,7 +30,7 @@
 
 <img align="center" alt="Pokoi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pokoi&show_icons=true&hide_border=true" />
 
-[website]: http://pokoidev.com/
+[website]: https://jfvillar.com
 [twitter]: https://twitter.com/pokoiDEV
 [youtube]: https://www.youtube.com/channel/UCgoB0w4wFD-08SQ48QGRBVw
 [twitch]: https://www.twitch.tv/pokoi
